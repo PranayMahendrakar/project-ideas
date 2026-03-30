@@ -6,3 +6,4 @@
 - [2026-03-30T19:19:22Z] test: add unit tests for core module
 - [2026-03-30T20:51:31Z] style: apply consistent code formatting
 - [2026-03-30T22:18:16Z] refactor: clean up unused imports
+- [2026-03-30T13:43:45Z] perf: optimize loop for better performance
